@@ -1,6 +1,6 @@
+
 dict_food = {"chicken": 1.59, "beef": 1.99, "cheese": 1.00, "milk": 2.00}
 
-dict_food = {"chicken": "$1.59", "beef": "$1.99", "cheese": "$1.00", "milk": "$2.00"}
 print(dict_food)
 
 chicken_price = dict_food["chicken"]
@@ -62,4 +62,34 @@ number_of_shoes["SB Dunk"]
 print(number_of_shoes)
 
 
+def total_price(menu_item, menu_item2):
+    return dict_food[menu_item] + dict_food[menu_item2]
+print(total_price("beef", "cheese"))
 
+def different_price(menu_item, menu_item2):
+    return dict_food[menu_item] - dict_food[menu_item2]
+print(different_price("beef", "cheese"))
+
+print(number_of_shoes)
+
+def restock(shoe, num):
+    number_of_shoes[shoe] *= num
+    return number_of_shoes
+print(restock("Jordan", 3))
+
+def clearance_sale(shoe, num):
+    number_of_shoes[shoe] //= num
+    return number_of_shoes
+print(clearance_sale("SB Dunk", 3))
+
+def important_in_bucketlist(dict):
+    smallest = 100
+    thing = ''
+
+    for key in dict.keys():
+            if dict[key] < smallest:
+                smallest = dict[key]
+                thing = key
+
+    return (thing,smallest)
+print(important_in_bucketlist(my_bucket_list))

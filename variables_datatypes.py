@@ -78,7 +78,7 @@ gift_list=['shoes', 'hoodies', 'jeans']
 print(gift_list)
 
 grocery_list={1: 'beef', 2: 'shrimps', 3: 'chicken'}
-print(grocery_list)
+print(grocery_list)s
 
 bucket_list=('code python', 'hang out', 'watch movies')
 print(bucket_list)
