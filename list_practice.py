@@ -63,6 +63,9 @@ def print_city(list):
         return "All subjects printed"
 print(print_city(subjects))
 
+def sort_list(list):
+        return sorted(list)
+print(sort_list(subjects))
 
 
 
