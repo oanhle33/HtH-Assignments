@@ -21,7 +21,7 @@ If you think this stuff is too easy for you, you can try to see if you can maste
 # 1
 greeting = "Hello World"
 
-if greeting in {"Arrr!"}:
+if greeting in ["Arrr!"]:
     print("Go away, pirate.")
 else:
     print("Greetings, hater of pirates!")
