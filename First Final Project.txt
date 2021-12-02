@@ -1,0 +1,20 @@
+﻿First Final Project Prompt —> Think back to what you said your career interest was at the beginning of the program. Has that changed? If so, what has your interest changed to? Why did it change? Can you provide any valuable information about the new career you are interested in (i.e. salaries, notable people, job responsibilities, etc) If it hasn’t changed, provide this same information for your original interest and describe what makes you remain interested in that career.
+
+
+I’m interested in full-stack development. I know full-stack developers can develop and maintain both front-end and back-end applications. Full-stack developers can build chatbots, web applications, mobile apps using full stack technologies. That’s interesting. I’ve been learning Python which is one of the leading programming languages for modern back end web development. I want to apply what I have learned to develop back end web development. I also do research and know that full-stack engineering is an in-demand job and make good money. 
+
+
+Second Final Project Prompt —> "This program was designed to help introduce you to sociotechnical issues and topics as well as how technology influences social justice. What area(s) of technology and social and racial justice are most interesting to you? How would you like to use technology to address these issues? Is there a role or job type that you would like to pursue based on your experience in this program? Please share 5-10 sentences."
+
+
+People of color have faced decades of higher difficulties than whites regarding getting a home loan, even reputable borrowers are denied at a higher rate or unfairly charged higher interest rates (Brooks 2019). To use technology to address these issues, I would like to build an online app that has no bias algorithm to allow borrowers of color to apply through the app. This app would not reject a person's application based on race or charge a higher mortgage rate for borrowers of color. I would like to pursue a backend developer to build that algorithm to solve this problem. 
+
+
+Brooks, Khristopher J. “Mortgage discrimination: Black and Latino paying millions more in interest, study shows.” CBS News, 15 November 2019, https://www.cbsnews.com/news/mortgage-discrimination-black-and-latino-paying-millions-more-in-interest-study-shows/. Accessed 2 December 2021.
+
+
+Third Final Project Prompt —> What technical career skills (hard or soft skills) have you learned in your 8 weeks with HTH and how do you plan to use these skills moving forward to help progress your career?
+
+
+For hard skills, I learned about Python fundamentals, Python debugging and testing. I also learned to master Github which is software development and version control using Git. These are great fundamentals to learn more languages later. I think once I master one language, it will be easy to learn other languages. 
+For soft skills, I learned a lot through career channels that HTH hosted. I learned about a growth mindset that made me see that being positive and persistent can help me pursue this career path. I learned about the importance of communication and networking which can help build strong relationships with peers and people around in the tech field to learn from them.
